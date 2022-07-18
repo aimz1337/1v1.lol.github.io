@@ -1,1 +1,2 @@
-# aimz1337.github.io
+# Getting things setup.
+This might take some time...
